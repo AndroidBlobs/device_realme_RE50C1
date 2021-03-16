@@ -1,0 +1,4 @@
+require version-baseband=1.0.c1.3-00018-KAMORTA_GEN_PACK-1.342985.2.346040.1
+require version-modem=2020-12-0520:46:12
+require version-trustzone=TZ.XF.5.1.C7-00005-1
+require version-vendor=1607173439
